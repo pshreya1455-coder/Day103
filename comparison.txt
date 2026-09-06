@@ -1,0 +1,9 @@
+1. The main difference is that a local merge is done on our computer using Git, while a PR merge is reviewed and merged on GitHub.
+
+2. I would prefer a local merge when I am working alone or when the changes are small and do not need review.
+
+3. A Pull Request is better when working in a team because other members can review, discuss, and approve the changes before merging.
+
+4. After merging a PR on GitHub, I use git pull origin main to bring the changes to my computer.
+
+5. git pull does two main things: it fetches the latest changes from the remote repository and then merges those changes into my current local branch.
